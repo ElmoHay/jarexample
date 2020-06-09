@@ -1,0 +1,4 @@
+Branch 'master' set up to track rePushing to https://github.com/ElmoHay/jarexample.git
+To https://github.com/ElmoHay/jarexample.git
+   e883f16..f21edde  master -> master
+updating local tracking ref 'refs/remotes/origin/master'
