@@ -1,4 +1,13 @@
-Branch 'master' set up to track rePushing to https://github.com/ElmoHay/jarexample.git
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+	modified:   fuckyou.txt
+
+no changes added to commit
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+Pushing to https://github.com/ElmoHay/jarexample.git
 To https://github.com/ElmoHay/jarexample.git
-   e883f16..f21edde  master -> master
+ = [up to date]      master -> master
 updating local tracking ref 'refs/remotes/origin/master'
+Everything up-to-date
